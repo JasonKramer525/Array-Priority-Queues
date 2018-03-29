@@ -1,5 +1,4 @@
 /*  Author: Jason Kramer
-    Class Acc: cssc0914
     
     The PriorityQueue ADT may store objects in any order.  However,
     removal of objects from the PQ must follow specific criteria.
